@@ -2,7 +2,6 @@ diff a/styles.css b/styles.css	(rejected hunks)
 @@ -17,11 +17,11 @@
  
    th {
-     width: 50%;
 -    font-size: X-large;
 +    font-size: xx-large;
      font-style: italic;
