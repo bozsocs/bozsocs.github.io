@@ -1,5 +1,6 @@
 table {
     width: 100%;
+    margin-left:auto;margin-right;auto;
   }
 
   td {
@@ -8,16 +9,48 @@ table {
     font-style: italic;
     text-align: justify;
     border: 1px solid;
+    color: white
     
   }
 
 
-  th{
+  th {
     width: 50%;
     font-size: X-large;
     font-style: italic;
     text-align: center;
     border-bottom: 2px solid;
-    background-color: #C0C0C0;
+    background-color: #c0c0c077;
+    color: white;
   }
 
+  h1{
+    color: white
+  }
+
+
+
+  body {
+    background-image: url('dsa.jpg');
+  }
+
+
+
+
+  
+  ody {
+    background-image: url('dsa.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+  }
+  </style>
+  </head>
+  <body>
+  
+  <h2>Background Stretch</h2>
+  
+  <p>Set the background-size property to "100% 100%" and the background image will be stretched to cover the entire element, in this case the body element.</p>
+  
+  </body>
+  
