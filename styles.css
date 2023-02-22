@@ -20,7 +20,7 @@ table {
     font-size: xx-large;
     font-style: italic;
     text-align: center;
-    border-bottom: 0px solid;
+    border-bottom: 1px solid;
     background-color: #0000006e;
     color: white;
   }
