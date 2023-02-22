@@ -1,0 +1,16 @@
+diff a/styles.css b/styles.css	(rejected hunks)
+@@ -17,11 +17,11 @@
+ 
+   th {
+     width: 50%;
+-    font-size: X-large;
++    font-size: xx-large;
+     font-style: italic;
+     text-align: center;
+-    border-bottom: 2px solid;
+-    background-color: #c0c0c077;
++    border-bottom: 0px solid;
++    background-color: #0000006e;
+     color: white;
+   }
+ 
