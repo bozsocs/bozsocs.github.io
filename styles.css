@@ -5,10 +5,11 @@ table {
 
   td {
     width: 50%;
-    font-size: medium;
+    font-size: x-large;
     font-style: italic;
     text-align: justify;
     border: 1px solid;
+    background-color: #0000008f;
     color: white
     
   }
@@ -16,11 +17,11 @@ table {
 
   th {
     width: 50%;
-    font-size: X-large;
+    font-size: xx-large;
     font-style: italic;
     text-align: center;
-    border-bottom: 2px solid;
-    background-color: #c0c0c077;
+    border-bottom: 0px solid;
+    background-color: #0000006e;
     color: white;
   }
 
@@ -29,10 +30,12 @@ table {
   }
 
 
-
   body {
     background-image: url('dsa.jpg');
   }
+
+
+
 
 
 
