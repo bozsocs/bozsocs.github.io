@@ -1,0 +1,22 @@
+table {
+    width: 100%;
+  }
+
+  td {
+    width: 50%;
+    font-size: medium;
+    font-style: italic;
+    text-align: justify;
+    border: 1px solid;
+    
+  }
+
+
+  th{
+    width: 50%;
+    font-size: X-large;
+    font-style: italic;
+    text-align: center;
+    border-bottom: 2px solid;
+    background-color: #C0C0C0;
+  }
