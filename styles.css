@@ -31,13 +31,15 @@ table {
     text-align:center;
   }
 
-body{ background:rgb(0, 183, 255);}
 
 body{background: rgb(34,193,195);
   background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(227,199,10,1) 100%);}
 
   DIREKT NEM MÜKÖDIK ody{background: rgb(34,193,195);
     background: linear-gradient(180deg, rgba(34,193,195,1) 0%, rgba(227,199,10,1) 100%);}
+
+
+    DIREKT NEM MÜKÖDIK ody{ background:rgb(0, 183, 255);}
   
   
     DIREKT NEM MÜKÖDIK ody {
