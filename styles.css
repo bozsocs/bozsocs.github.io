@@ -20,28 +20,33 @@ table {
     font-size: xx-large;
     font-style: italic;
     text-align: center;
-    border-bottom: 1px solid;
+    border-bottom: 0px solid;
     background-color: #0000006e;
     color: white;
   }
 
   h1{
-    color: white
+    font-size: xx-large;
+    color: white;
+    text-align:center;
   }
 
+body{ background:rgb(0, 183, 255);}
 
-  body {
-    background-image: url('dsa.jpg');
+body{background: rgb(34,193,195);
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(227,199,10,1) 100%);}
+
+  DIREKT NEM MÜKÖDIK ody{background: rgb(34,193,195);
+    background: linear-gradient(180deg, rgba(34,193,195,1) 0%, rgba(227,199,10,1) 100%);}
+  
+  
+    DIREKT NEM MÜKÖDIK ody {
+    background-image: url('vitamins.jpg');
   }
-
-
-
-
-
 
 
   
-  ody {
+  DIREKT NEM MÜKÖDIK ody {
     background-image: url('dsa.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed; 
